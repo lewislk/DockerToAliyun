@@ -1,1 +1,2 @@
-redis:7.4.1
+#redis:7.4.1
+apache/rocketmq:4.9.6
