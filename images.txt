@@ -1,2 +1,3 @@
 #redis:7.4.1
-apache/rocketmq:4.9.6
+#apache/rocketmq:4.9.6
+elasticsearch:8.13.0
