@@ -4,8 +4,9 @@
 #kibana:8.13.0
 #xuxueli/xxl-job-admin:2.4.1
 #seataio/seata-server:2.0.0
-prom/prometheus:latest
-grafana/grafana:latest
-oliver006/redis_exporter:latest
-prom/node-exporter:latest
-prom/mysqld-exporter:latest
+#prom/prometheus:latest
+#grafana/grafana:latest
+#oliver006/redis_exporter:latest
+#prom/node-exporter:latest
+#prom/mysqld-exporter:latest
+alpine:latest
