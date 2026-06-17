@@ -9,4 +9,6 @@
 #oliver006/redis_exporter:latest
 #prom/node-exporter:latest
 #prom/mysqld-exporter:latest
-alpine:latest
+#alpine:latest
+elasticsearch:7.1.0
+kibana:7.1.0
