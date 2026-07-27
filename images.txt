@@ -21,5 +21,6 @@
 #minio/minio:latest
 #milvusdb/milvus:v2.4.8
 #zilliz/attu:latest
-golang:1.22-alpine
-gcr.io/distroless/static-debian12:nonroot
+#golang:1.22-alpine
+#gcr.io/distroless/static-debian12:nonroot
+node:20-alpine
