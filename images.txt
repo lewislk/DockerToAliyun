@@ -23,4 +23,4 @@
 #zilliz/attu:latest
 #golang:1.22-alpine
 #gcr.io/distroless/static-debian12:nonroot
-node:20-alpine
+node:24-alpine
