@@ -25,4 +25,4 @@
 #gcr.io/distroless/static-debian12:nonroot
 #node:24-alpine
 #cropflre/nowen-video:latest
-nvidia/cuda:12.4-base
+jellyfin/jellyfin:latest
